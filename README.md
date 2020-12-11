@@ -15,8 +15,6 @@ Essas características foram levantadas com essa pequena aplicação de CRUD com
 # ROUTES
 Como HAPI escolhes um caminho? Todas as rotas que você adiciona usando server.route() são adicionadas internamente a algo chamado de tabela de roteamento. Cada conexão de servidor possui sua própria cópia da tabela de roteamento.
 A possibilidade de definir em uma rota a mesma resposta para diferentes métodos HTTP me encantou.
-
-# Markdown
 ```
 server.route({
 			method: ['GET', 'POST'],
