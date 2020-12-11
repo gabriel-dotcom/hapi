@@ -36,4 +36,4 @@ http://localhost:3000
 ```  
 
 #### FIM
-Esse pequeno artigo foi um estudo de uma semana frustrante por conseguir pensar em nada para sair do cotidiano. O artigo não contém todas as funcionalidades do HAPI mas tem a minha visão depois de um estudo da documentação e não de tutoriais já prontos
+Esse pequeno artigo foi um estudo de uma semana frustrante por conseguir pensar em nada para sair do cotidiano. O artigo não contém todas as funcionalidades do HAPI mas tem a minha visão depois de um estudo da documentação e não de tutoriais já prontos.
