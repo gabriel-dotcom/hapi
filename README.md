@@ -5,7 +5,7 @@ Quando começei meus estudos em App REST com Node.js, eu me deparei com o Expres
 Então querendo saber o que acontece debaixo dos panos eu iniciei meus estudos no HAPI com base na documentação e não em tutoriais mastigados.
 
 # HAPI 
-HAPI é um Framework desenvolvido pela equipe de devs do Walmart, tendo como focu uma aplicação corporativa com muitos desenvolvedores. HAPI tem um código bastante enxuto por trabalhar com a organização Chave-Valor. O HAPI está no hype no momento por ser um opção além do Express o que para algumas pessoas não faz sentido pois o Express é apenas uma abstração do HTTP Kernel do node e apenas provê rotas.
+HAPI é um Framework desenvolvido pela equipe de devs do Walmart, tendo como foco uma aplicação corporativa com muitos desenvolvedores. HAPI tem um código bastante enxuto por trabalhar com a organização Chave-Valor. O HAPI está no hype no momento por ser um opção além do Express o que para algumas pessoas não faz sentido pois o Express é apenas uma abstração do HTTP Kernel do node e apenas provê rotas.
 
 # CARACTERÍSTICAS 
 Como disse acima, o HAPI trabalha com Chave-Valor, principalmente em suas rotas. Ao meu ver a declaração das rotas tem uma organização e especificação muito compreensível e de fácil leitura.
