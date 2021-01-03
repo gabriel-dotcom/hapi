@@ -27,7 +27,7 @@ server.route({
 Podemos também nomear um parâmetro em um caminho
 
 # COMO USAR
-O arquivo que inicia o projeto é o Index.js, os arquivos Crud.js e ServerTutorial.js são arquivos onde eu vou comparando e fazendo alterações na configuração do servidor mudando a forma que a documentaação indica.
+O arquivo que inicia o projeto é o Index.js, os arquivos Crud.js e ServerTutorial.js são arquivos onde eu vou comparando e fazendo alterações na configuração do servidor mudando a forma que a documentação indica.
 ```
 npm install
 npm start
